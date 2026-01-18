@@ -34,7 +34,10 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+One of the challenges I faced while building this app was figuring out how to retrieve values from the three buttons. At first, this was tricky because I kept trying to inspect the buttons directly to get the data, which did not work. After doing some research, I realized that I needed to create a separate eventListener for each button in order to correctly access and use their values. 
+Once I implemented this approach, the functionality worked as expected.
 
 ## License
 
