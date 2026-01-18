@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 https://www.loom.com/share/ffd9078023864594abba26847c365575
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+ 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
